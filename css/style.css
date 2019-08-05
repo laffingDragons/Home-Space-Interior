@@ -102,7 +102,7 @@ ul, li {
 	z-index: 9;
 }
 #Header.header-fixed {
-	background: rgba(0, 0, 0, 0.8);
+	background: #ff8a07ba;
 	transition: all 0.3s ease-in-out;
 }
 #Header.header-fixed .site-logo-wrap {
@@ -128,7 +128,7 @@ ul, li {
 #Header .site-logo-wrap {
 	width: 30%;
 	float: left;
-	padding: 30px 0;
+	padding: 5px 0; 
 	transition: all 0.3s ease-in-out;
 }
 #Header .site-logo-wrap .logo {
@@ -140,7 +140,7 @@ ul, li {
 #Header .site-logo-wrap .logo img {
 	display: inline-block;
 	vertical-align: middle;
-	width: 80px;
+	width: 215px;
 }
 #Header .main-menu {
 	width: 70%;
@@ -285,7 +285,7 @@ ul, li {
 }
 #HeroBanner .hero-content {
 	display: table-cell;
-	background-color: #21252959;
+	background-color: #ff8a0738;
 	text-align: center;
 	vertical-align: middle;
 	padding: 0 15px;
